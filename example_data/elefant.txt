@@ -1,0 +1,325 @@
+
+
+info_icon
+Elefant
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+This article is about the Wehrmacht tank destroyer. For the animal, see elephant. For other uses, see Elefant (disambiguation).
+	
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+Find sources: "Elefant" – news · newspapers · books · scholar · JSTOR (April 2014) (Learn how and when to remove this template message)
+Panzerjäger Tiger (P)
+Elefant USAOM-01.jpg
+The United States Army Ordnance Training Support Facility's restored Elefant.
+Type	Heavy tank destroyer
+Place of origin	Nazi Germany
+Production history
+Designer	Ferdinand Porsche
+Designed	1942–1943
+Manufacturer	Nibelungenwerk
+Produced	March–May 1943
+(substantial upgrades in January to April 1944)
+No. built	91[1]
+Specifications
+Mass	65 tonnes (143,000 lb)
+Length	8.14 m (26 ft 8 in) with gun
+Width	3.38 m (11 ft 1 in)
+Height	2.97 m (9 ft 9 in)
+Crew	6 (driver, radio-operator, commander, gunner, two loaders)
+Armor	200 mm (7.87 in) maximum
+Main
+armament
+	8.8 cm Pak 43/2 L/71, also known as StuK 43/1
+Secondary
+armament
+	7.92 mm MG 34 machine gun (Elefant only)
+Engine	2 × Maybach HL120 TRM petrol
+600 PS (592 hp, 442 kW)
+Power/weight	9.2 PS (6.8 kW) / tonne
+Suspension	longitudinal torsion-bar
+Fuel capacity	950 liters
+Operational
+range
+	150 km (93 mi) road
+90 km (56 mi) cross-country
+Maximum speed 	30 kilometres per hour (19 mph)
+
+The Elefant (German for "elephant") was a heavy tank destroyer used by German Wehrmacht Panzerjäger during World War II. Ninety-one units were built in 1943 under the name Ferdinand, after its designer Ferdinand Porsche, using tank hulls produced for the Tiger I tank design abandoned in favour of a Henschel design.
+
+In January to April 1944, Ferdinands received modifications and upgrades. They were renamed Elefant in May 1944. The official German designation was Panzerjäger Tiger (P)[Note 1] and the ordnance inventory designation was Sd.Kfz. 184.
+Contents
+
+    1 Development history
+    2 Design
+        2.1 Chassis
+        2.2 Drive
+        2.3 Armament
+    3 Production
+    4 Combat history
+        4.1 Kursk
+        4.2 Post-Kursk modifications
+    5 Conclusions
+    6 Survivors
+    7 See also
+    8 Notes
+    9 References
+    10 External links
+
+Development history
+Porsche's pre-Elefant, turreted Tiger I prototype
+
+Porsche GmbH had manufactured about 100 chassis for their unsuccessful proposal for the Tiger tank, the "Porsche Tiger", in the Nibelungenwerk factory in Sankt Valentin, Austria. Both the successful Henschel proposal and the Porsche design used the same Krupp-designed turret—the Henschel design had its turret more-or-less centrally located on its hull, while the Porsche design placed the turret much closer to the front of the superstructure. Since the competing Henschel Tiger design was chosen for production, the Porsche chassis were no longer required for the Tiger tank project. It was therefore decided that the Porsche chassis were to be used as the basis of a new heavy panzerjäger, Ferdinand, mounting Krupp's newly developed 88 mm (3.5 in) Panzerjägerkanone 43/2 (PaK 43)[2][3][4] anti-tank gun. This precise long-range weapon was intended to destroy enemy tanks before they came within their own range of effective fire.
+
+The Ferdinand was intended to supplant previous light panzerjägers, such as the Marder II and Marder III, in the offensive role. A similar gun was used in the lightly armored Hornisse (later known as Nashorn) tank destroyer, built at the same time.
+Design
+Chassis
+
+The petrol-electric transmission made it much easier to relocate the engines than would be the case on a mechanical-transmission vehicle (the engines can be mounted anywhere, and only the length of the power cables needs to be altered, as opposed to re-designing the driveshafts and locating the engines for the easiest routing of powershafts to the gearbox), so without the forward-mounted turret of the Porsche Tiger prototype, the twin engines were relocated to the front, where the turret had been, leaving room ahead of them for the now-isolated driver and assistant-driver only. The now empty rear half of the hull was covered with a heavily armored, full five-sided casemate with slightly-sloped upper faces and armored solid roof, and turned into a crew compartment, mounting a single 8.8 cm Pak 43 cannon in the forward face of the casemate. The initial Ferdinand conversions were thus among the first physical examples of what became known as the dedicated Jagdpanzer tank destroyers, all of which had completely enclosed casemates, but which were all designed to have their casemate-form armored enclosures designed as a much more integral component of the vehicle's hull armor from the start; the Ferdinand was more of a cross between the earlier, thinly armored, high-profile, "three-side" (open-top/rear) Panzerjäger and the later, more heavily armored, lower-profile, rear-engined Jagdpanzer. The driver and assistant driver were in a separate compartment at the front. As the engines were placed in the middle, the assistant driver and the driver were isolated from the rest of the crew and could be addressed only by intercom.
+
+Add-on armor of 100 mm was bolted to the front plates, increasing the plate's thickness to 200 mm and adding another 5 tonnes of weight.
+Drive
+The preserved American-captured Elefant, showing the suspension it shared with the VK 4501 (P) chassis.
+
+The two Porsche air-cooled engines in each vehicle were replaced by two 300 PS (296 hp; 221 kW) Maybach HL120 TRM engines. The engines drove a single Siemens-Schuckert 500 kVA generator each, which powered two Siemens 230 kW (312.7 PS) individual-output electric motors, one each connected to each of the rear sprockets. The electric motors also acted as the vehicle's steering unit. This "petrol-electrical" drive delivered 0.11 km/l (909 litres/100 km or 0.26 MPG) off-road and 0.15 km/l (667 litres/100 km or 0.35 MPG) on road at a maximum speed of 10 km/h off-road and 30 km/h on road. In addition to this high fuel consumption and poor performance, the vehicle was maintenance-intensive; the sprockets needed to be changed every 500 - 900km.[5] Porsche had experience of this form of petrol-electric transmission extending back to 1901, when he designed a car that used it.
+
+Suspension for the "slack track" equipped Ferdinand consisted of six twin bogies (three per side) with longitudinal torsion bars, without any overlapping wheels or return rollers. There are sprockets at both ends of the vehicle. The drive sprockets are at the rear, while the front pair contain a drum brake system.
+Armament
+
+The vehicle was fitted with an 88 mm Panzerjägerkanone 43/2[2] gun (early designation 8,8 cm Stu.K. 43/1). This 71 caliber-long gun had originally been developed as a replacement for the 88 mm anti-aircraft gun that had been used against Allied tanks in the Western Desert Campaign and on the Eastern Front. It had a much longer barrel than the L/56 guns, which gave it a higher muzzle velocity, and fired a different, longer cartridge. These improvements gave the 88 mm L/71 significantly improved armor penetration ability over the earlier 88 mm. Although it lost the competition to the 8.8 cm Flak 41 and never became an anti-aircraft weapon, it was turned into the very successful Pak 43 anti-tank gun.
+
+As fitted, the gun was capable of 28° traverse and -8° and +14° depression/elevation.
+Production
+
+Ninety-one existing "Porsche Tiger" chassis were converted (chassis number 150010 to 150100). The work was completed in just a few months from March to May 1943. Three Bergepanzer Ferdinands (the recovery vehicle variant of the Ferdinand tank destroyer) were produced at the Nibelungenwerke in summer 1943.[6]
+Combat history
+A disabled Elefant in Italy, 1944.
+Kursk
+
+Ferdinands first saw combat in the Battle of Kursk, where eighty-nine were committed, the largest deployment of the vehicle during its service.
+
+The Ferdinand was optimized for destroying Soviet T-34 tanks and 76.2 mm anti-tank guns from behind the front lines with its 88 mm Pak 43/2 L/71 at a range of over 3 kilometres, a role which it performed well. Its most significant problem at Kursk was mine damage and mechanical failure. Any damage to the tracks or suspension negated the protection of the armor, as crews were forced to dismount and attempt repairs. The extreme weight of the Ferdinand made towing difficult: the standard armored recovery vehicle in German service at the time was the Bergepanzer IV, a variant of the Panzer IV that could tow a single Panzer IV without assistance. It was insufficient for larger vehicles, with a Tiger I heavy tank requiring three Bergepanzer IVs to be towed, and the Ferdinand requiring five linked in tandem to pull the vehicle off the field.
+
+In addition, the Ferdinand was hampered by flaws such as the lack of peripheral vision blocks, or a machine gun as secondary defensive armament. Apocryphal reports say that Soviet infantry, quickly recognizing this flaw, could easily hide in their trenches until the Ferdinand advanced through their lines, then swarm the vehicle with grenades and Molotov cocktails from the sides. However, losses to Soviet infantry are disputed in after-action reports.[7] On the other hand, Heinz Guderian himself complained that the Elefant, much as other failed designs, suffered from lack of close-range protection against infantry assaults.[8]
+
+In the initial stages of the Kursk battle, when the Germans were on the offensive, heavy vehicles could be recovered and repaired with relative peace at night; this at first allowed the majority of knocked-out Ferdinands to be rescued, repaired and returned to duty. However, once the tides had turned against the Germans and they fell back on the defensive, with fewer vehicles to spare, functional Ferdinands with minor damage to their tracks or suspensions had little hope of recovery, and crews were usually forced to destroy the vehicle to prevent a mostly intact Jagdpanzer from falling into the hands of the Soviets.
+On the Anzio front, March 1944
+
+The units were deployed at a company level, sometimes sub-divided into platoons, with infantry or tanks in accompaniment to protect the flanks and rear of the vehicles. On the attack, this Jagdpanzer was a first-strike vehicle; while in defence, they often comprised a mobile reserve used to blunt enemy tank assaults[9]
+Post-Kursk modifications
+
+The surviving Ferdinands fought various rear-guard actions in 1943 until they were recalled to be modified and overhauled, partially based on battle experience gained in the Battle of Kursk. Returned to the Nibelungenwerke factory in Austria, on 2 January 1944, upgrades commenced on 48 of the 50 surviving vehicles. The most visible exterior upgrades were 1) the addition of a ball-mounted MG 34 in the hull front, 2) a new commander's cupola (modified from the standard StuG III cupola) for improved vision, 3) re-designed armored engine grates (for better bullet and shrapnel protection) and 4) the application of Zimmerit anti-magnetic mine paste.
+
+Due to the Allied landing in Anzio-Nettuno, Italy, the first eleven complete and updated Ferdinands were issued to the 1st company of 653rd Heavy Tank Destroyer Battalion (German: schwere Panzerjäger-Abteilung, sPzJgrAbt) and were deployed at the end of February 1944. The remaining 37 vehicles were completed in April and were issued to the 2nd and 3rd companies of sPzJgrAbt 653 which boarded trains and sent to the Tarnopol battles in Ukraine.
+
+On 1 May 1944, German Army High Command, Oberkommando des Heeres (OKH) issued an order to formally change the panzerjäger's name from "Ferdinand" to "Elefant". This order forbade future use of Ferdinand and even directed units in the field to edit their records. This is contrary to popular belief that the name change was linked to the January–April mechanical upgrades to the Ferdinand panzerjäger; the name change was purely administrative in nature.[10]
+
+Three Bergepanzer Elefant or armoured recovery vehicles were converted from Ferdinand/Elefant hulls and issued with the 2nd and 3rd companies of sPzJgrAbt 653 to the East in the summer of 1944.
+
+Although the Elefant modifications improved the vehicles, some problems could never be fully fixed. In 1944, the Ferdinand/Elefants served on the Italian front, but were rather ineffective as their weight of nearly 70 tonnes did not allow them to use most Italian roads and bridges. As at Kursk, most Elefant losses were not as a direct result from combat, but resulted when mechanical breakdowns and lack of spare parts compelled their crews to destroy and abandon them. One company of Elefants saw action during the Soviets' January 1945 Vistula–Oder Offensive in Poland, and the last surviving vehicles were in combat at Zossen during the Battle of Berlin.
+Conclusions
+
+The Ferdinand/Elefant may have been the most successful mass produced German tank destroyer employed during the war in kills per loss, reaching an average claimed ratio of approximately 10:1.[9] During the Battle of Kursk, sPzJgrAbt 653 claimed to have knocked out 320 enemy tanks, for the loss of 13 Ferdinands.[11] This impressive average ratio was due to its extreme firepower and protection, which gave it an enormous advantage when used in head-on combat or a static defensive role (however note that claimed tank kills are well-proven to invariably greatly exceed actual kills, and different organizations have different standards of defining a 'kill'). However, poor mobility and mechanical unreliability greatly diminished its operational capability.
+
+The Elefant and Nashorn were both superseded by the Jagdpanther. All three vehicles mounted the same gun, with only some minor differences between them. The Jagdpanther - a true jagdpanzer - was a successor to the other two, combining acceptable mobility and good, sloped armour while retaining the excellent gun, mostly solving the reliability, mobility, and/or protection problems that the earlier vehicles had.
+Survivors
+
+Only two of these vehicles survived the war. One Ferdinand was captured by Soviet forces at Kursk, and is now at the Kubinka Tank Museum outside Moscow. An Elefant, numbered "102" of sPzJgr Abt 653, was captured at Anzio by the Americans, and is now part of the United States Army Ordnance Training Support Facility's collection at Fort Lee, VA. The example at Fort Lee was restored to display condition in 2007–2008,[12] as documented on the show Tank Overhaul, but not in its original paint scheme.[13]
+
+It was announced in 2016 that the Fort Lee Elefant would be loaned to the Bovington Tank Museum in Dorset, UK. The vehicle was displayed as part of the museum's "Tiger Collection" display from April 2017 until January 2019, when it was returned to the United States. This display brought all the members of the Tiger family together in one place for the first time.[14]
+
+    The United States Army Ordnance Training Support Facility's restored Elefant.
+
+    The United States Army Ordnance Training Support Facility's restored Elefant from the front.
+
+    The Kubinka Tank Museum's Ferdinand.
+
+See also
+
+    SU-152 and ISU-152, a Soviet self-propelled heavy howitzer which earned the nickname Zveroboy ("beast killer") for its ability to knock out Elefants, as well as Tigers and Panther tanks.[15]
+
+Notes
+
+    Not to be confused with either the Panzerkampfwagen VI Tiger Ausf. H" or "Ausf. E" versions of the (Tiger I), or the Panzerkampfwagen Tiger Ausf. B (Tiger II)
+
+References
+
+Jentz, Thomas (1997). Panzerkampfwagen VI P (Sd.Kfz.181). The History of the Porsche Typ 100 and 101 also known as the LEOPARD and TIGER(P). Darlington Productions. p. 54. ISBN 1892848031.
+D 2030 – 8,8 cm Panzerjägerkanone 43/2 (L/71), Beschreibung, 28.1.1944. Berlin.
+D97/1+ Gerätliste, Oberkommando des Heeres Heereswaffenamt, s.45, Berlin 1.7.43
+"Gerätliste s.45". Archived from the original on 2015-11-17.
+Ferdinand and Elefant Tank Destroyer by Thomas Anderson p.43 and p.158
+Jentz, Thomas (1997). Panzer Tracts No. 9 - Jagdpanzer 38 to Jagdtiger. Darlington Productions, Inc. p. 41. ISBN 0-9648793-3-6.
+Münch, Karlheinz (1997). Combat History of Schwere Panzerjäger Abteilung 653: Formerly the Sturmgeschütz Abteilung 197, 1940-1943. Manitoba CANADA: J.J. Fedorowicz Publishing. ISBN 9780921991373.
+Guderian, H., "Panzer Leader", Smolensk, 1999, chapter 10, page 426-427
+"Tank Destroyer Elefant". Germandressdaggers.com. Retrieved 2017-08-18.
+Münch, Karlheinz (1997). Combat History of Schwere Panzerjäger Abteilung 653: Formerly the Sturmgeschütz Abteilung 197, 1940-1943. Manitoba CANADA: J.J. Fedorowicz Publishing. ISBN 9780921991373.
+"Ferdinand/Elephant". Achtung Panzer!. Retrieved 2010-02-07.
+"Richmond Times Dispatch". Archived from the original on 2013-02-04. Retrieved 2011-04-07.
+"Picture of the United States Army Ordnance Training Support Facility's Elefant when captured (can be recognized by the impacts on the gun and on the left front wheel)". Archived from the original on 2016-03-04.
+"In a world first, The Tank Museum is planning an exhibition that will bring every member of the Tiger Tank family together in one display". Tankmuseum.org. Retrieved 2017-08-18.
+
+    Green, Michael; Brown, James D. (2008), "Red Army Solutions for the Tiger E Tank", Tiger Tanks at War, St. Paul: Zenith Press, p. 104, ISBN 978-0-7603-3112-5
+
+External links
+	Wikimedia Commons has media related to Panzerjäger Tiger (P).
+
+    Information about the Panzerjäger Tiger(P) "Ferdinand/Elefant" at Panzerworld
+    Ferdinand in Kubinka tank museum
+    World War II Vehicles
+    Achtung Panzer web site.
+    Photogallery
+    Very large Russian photo gallery (grayknight.narod.ru)
+    Elefant at Aberdeen Proving Ground photos @ 5 Star General site
+    Photos of disabled and destroyed 'Ferdinands' of 5./schwere Panzerjäger-Abteilung 654 at Ponyri railway station during operation 'Zitadelle'
+    The Tank Museum (UK) "Tank Chat #42 – Elefant" Video
+
+    vte
+
+German armoured fighting vehicles of World War II
+Tanks	
+
+    Panzer I Panzer II Panzer III Panzer IV Panther Tiger I Tiger II Panzer 35(t) Panzer 38(t)
+
+Self-propelled artillery	
+
+    Bufla Wespe 10.5cm leFH18(Sf) LrS 10.5cm leFH18(Sf) 39H 15cm sFH13/1 (Sf) LrS Sturmpanzer I Sturmpanzer II Grille Hummel Panzerwerfer 42 Wurfrahmen 40 Karl-Gerät
+
+Assault guns	
+
+    StuG III StuG IV StuH 42 StuIG 33B Brummbär Sturmtiger
+
+Tank destroyers	
+
+    Panzerjäger I 35R(f) Marder I II III RSO/PaK 40 Nashorn Elefant Jagdpanzer IV Hetzer Jagdpanther Jagdtiger
+
+Half-tracks	
+
+    Maultier Sd.Kfz. 2 4 6 7 8 9 10 11 250 251 252 253 254 sWS
+
+Armored cars	
+
+    Kfz 13 Sd.Kfz. 221/22/23/60/61 Sd.Kfz. 231/32/33/34/63 Sd.Kfz. 234 Sd.Kfz. 247 ADGZ
+
+Self-propelled anti-aircraft guns	
+
+    Flakpanzer I Flakpanzer IV
+        Möbelwagen Wirbelwind Ostwind Kugelblitz Flakpanzer 38(t)
+
+Demolition vehicles	
+
+    Leichter Ladungsträger Goliath Mittlerer Ladungsträger Springer Schwerer Ladungsträger Borgward IV
+
+Prototypes	
+
+    Maus Geschützwagen Tiger Entwicklung series Leichttraktor Panther II Heuschrecke 10 Neubaufahrzeug Sturer Emil 10.5 cm K (gp.Sfl.) Pz.Sfl. II Flakpanzer Coelian VK 3001 (P) VK 4501 (P) VK 3002(DB)
+
+Proposed designs	
+
+    Panzer III/IV Löwe Panzer IX Panzer X Ratte Monster VK 1602 Leopard Gep. MTW Kätzchen VK 4502 (P) VK 20 series
+
+German armored fighting vehicle production during World War II
+Portals
+Access related topics	
+
+    Bundeswehr Kreuz Black.svgMilitary of Germany portal
+    AMISOM T-55.jpgTanks portal
+    Heinkel He 111 during the Battle of Britain.jpgWorld War II portal
+
+Find out more on
+Wikipedia's
+Sister projects	
+
+    Media
+    from Commons
+
+Authority control Edit this at Wikidata	
+
+    GND: 4279759-7 LCCN: sh2014001236
+
+Categories:
+
+    World War II tank destroyers of Germany
+
+Navigation menu
+
+    Not logged in
+    Talk
+    Contributions
+    Create account
+    Log in
+
+    Article
+    Talk
+
+    Read
+    Edit
+    View history
+
+Search
+
+    Main page
+    Contents
+    Current events
+    Random article
+    About Wikipedia
+    Contact us
+    Donate
+
+Contribute
+
+    Help
+    Learn to edit
+    Community portal
+    Recent changes
+    Upload file
+
+Tools
+
+    What links here
+    Related changes
+    Special pages
+    Permanent link
+    Page information
+    Cite this page
+    Wikidata item
+
+Print/export
+
+    Download as PDF
+    Printable version
+
+In other projects
+
+    Wikimedia Commons
+
+Languages
+
+    Dansk
+    Deutsch
+    Español
+    Français
+    Hrvatski
+    Italiano
+    Nederlands
+    Русский
+    Türkçe
+
+Edit links
+
+    This page was last edited on 15 November 2020, at 07:30 (UTC).
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+    Privacy policy
+    About Wikipedia
+    Disclaimers
+    Contact Wikipedia
+    Mobile view
+    Developers
+    Statistics
+    Cookie statement
+
+    Wikimedia Foundation
+    Powered by MediaWiki
+
+

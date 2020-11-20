@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+    <head>
+        <meta charset="UTF-8">
+        <title th:text="#{application.title}"/>
+        <link rel="shortcut icon" th:href="@{/images/icon.png}" type="image/x-icon">
+        <link rel="stylesheet" type="text/css" th:href="@{/css/main.css}"/>
+    </head>
+    <body>
+
+        <div>
+            <a th:text="#{link.corpus}" th:href="${'/cloud/corpus'}" />
+        </div>
+
+        <div class="cloudList" th:unless="'__${#lists.isEmpty(allDocuments)}__'">
+            <h2  th:text="#{document.list.title}"/>
+            <table class="allFoods">
+                <thead>
+                    <tr>
+                        <th th:text="#{document.list.name}"/>
+                        <th th:text="#{document.list.status.text}"/>
+                        <th th:text="#{document.list.status.cloud}"/>
+                        <th th:text="#{document.list.status.korpus}"/>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="hoverable-row" th:each="doc : ${allDocuments}">
+                        <td>
+                            <span th:switch="${doc.cloudSaved}">
+                                <i th:case="true"><a th:text="${'__${{doc.name}}__'}" th:href="${'/cloud/' + '__${{doc.name}}__'}" /></i>
+                                <i th:case="false" th:text="${'__${{doc.name}}__'}"/>
+                            </span>
+                        </td>
+                        <td>
+                            <span th:switch="${doc.fileSaved}">
+                                <i th:case="true" th:class="status-true" th:text="#{document.status.available}"/>
+                                <i th:case="false" th:class="status-false" th:text="#{document.status.not_available}"/>
+                            </span>
+                        </td>
+                        <td>
+                            <span th:switch="${doc.cloudSaved}">
+                                <i th:case="true" th:class="status-true" th:text="#{document.status.available}"/>
+                                <i th:case="false" th:class="status-false" th:text="#{document.status.not_available}"/>
+                            </span>
+                        </td>
+                        <td>
+                            <span th:switch="${doc.corpusUpdated}">
+                                <i th:case="true" th:class="status-true" th:text="#{document.status.available}"/>
+                                <i th:case="false" th:class="status-false" th:text="#{document.status.not_available}"/>
+                            </span>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </body>
+</html>
